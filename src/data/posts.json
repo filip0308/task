@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Team",
+        "children": [
+            {
+                "name": "Barcelona",
+                "children": [
+                    {
+                        "name": "Messi",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Real Madrid",
+                "children": [
+                    {
+                        "name": "Ramos",
+                        "children": [
+                            {
+                                "name": 4,
+                                "children": []
+                            },
+                            {
+                                "name": "Defender",
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
